@@ -17,8 +17,8 @@ Wykorzystałem narzędzie systemowe `certutil` do obliczenia skrótu pliku insta
 
 Przy użyciu programu **Kleopatra** dokonałem weryfikacji podpisu pliku `.sig`. Potwierdza to integralność instalatora.
 
-  * **Wynik:**
-  * ![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img1.png)
+**Wynik:**
+![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img1.png)
 
 -----
 
