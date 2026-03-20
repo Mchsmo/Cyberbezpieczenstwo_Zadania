@@ -10,13 +10,15 @@ Zanim przystąpimy do instalacji, kluczowe jest upewnienie się, że pobrany pli
 
 Wykorzystałem narzędzie systemowe `certutil` do obliczenia skrótu pliku instalacyjnego i porównania go z oficjalną listą sum kontrolnych.
 
-**Wynik:** ![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img0.png)
+**Wynik:** 
+![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img0.png)
 
 ### Weryfikacja podpisu cyfrowego (OpenPGP)
 
 Przy użyciu programu **Kleopatra** dokonałem weryfikacji podpisu pliku `.sig`. Potwierdza to integralność instalatora.
 
-  * **Wynik:** ![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img1.png)
+  * **Wynik:**
+  * ![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad-vera_crypt/images/img1.png)
 
 -----
 
