@@ -31,7 +31,7 @@ Dokumenty dotyczące standardów `DNS`:
 8. **Resolver** -> **Klient**: "Oto Twój adres IP: `93.184.216.34`" (Odpowiedź Końcowa).
 
 **Schemat:** <br>
- ![alt text](https://github.com/Mchsmo/Cyberbezpieczenstwo_Zadania/blob/zad_DNS/images/DiagramDNS.png)
+ ![alt text](https://raw.githubusercontent.com/Mchsmo/Cyberbezpieczenstwo_Zadania/zad_DNS/images/DiagramDNS.png)
 
  ## 3. Punkty w których można ingerować w rozwiązywanie nazw
 
