@@ -15,11 +15,13 @@ Przed rozpoczęciem instalacji sprawdzono integralność pobranych plików ISO z
 W systemach skonfigurowano dwukierunkowy schowek oraz funkcję przeciągania plików, co znacznie ułatwia pracę między hostem a maszynami wirtualnymi.
 
 **Zrzut ekranu: Ustawienia schowka i Drag-and-Drop**
+
 ![Integracja](https://raw.githubusercontent.com/Mchsmo/Cyberbezpieczenstwo_Zadania/Zad_VM/images/img4.png)
 
 Zaraz po czystej instalacji i konfiguracji dodatków wykonano bazową migawkę systemu, umożliwiającą natychmiastowy powrót do punktu wyjścia.
 
 **Zrzut ekranu: Menedżer migawek (Snapshoty)**
+
 ![Migawki](https://raw.githubusercontent.com/Mchsmo/Cyberbezpieczenstwo_Zadania/Zad_VM/images/img5.png)
 
 ---
@@ -51,6 +53,7 @@ Początkowo maszyny pracowały w trybie NAT (img1). Zaobserwowano, że obie masz
 Zmieniono konfigurację na "Sieć NAT" o nazwie `NatNetwork`. Pozwoliło to na przydzielenie unikalnych adresów IP w jednej podsieci wirtualnej.
 
 **Zrzut ekranu: Poprawna konfiguracja sieci**
+
 ![NAT Network Settings](https://raw.githubusercontent.com/Mchsmo/Cyberbezpieczenstwo_Zadania/Zad_VM/images/img8.png)
 
 ---
@@ -83,6 +86,7 @@ W celu wyeliminowania konieczności wpisywania hasła i zwiększenia bezpieczeń
 
 
 **Zrzut ekranu: Przesyłanie klucza SSH na Ubuntu**
+
 ![SSH Copy ID](https://raw.githubusercontent.com/Mchsmo/Cyberbezpieczenstwo_Zadania/Zad_VM/images/img10.png)
 
 ---
